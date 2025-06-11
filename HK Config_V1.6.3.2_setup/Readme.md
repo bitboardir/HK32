@@ -8,5 +8,5 @@
 
 ---
 <p align="center">
-  <img src="HK Config.png" alt="HK Config" width="700">
+  <img src="HK Config.png" alt="HK Config" width="1024">
 </p>
