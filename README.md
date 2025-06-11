@@ -14,6 +14,6 @@ Microcontroller purchase link :
 
 ---
 <p align="center">
-  <img src="HK32F030MF4P6.jpg" alt="HK32F030MF4P6" width="1024">
+  <img src="HK32F030MF4P6/HK32F030MF4P6.jpg" alt="HK32F030MF4P6" width="700">
 </p>
 ---
