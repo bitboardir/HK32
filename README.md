@@ -1,8 +1,10 @@
-1- install device pack for keil or iar
+1- install device pack for Keil 5.34 or IAR 9.50
 
-2- compile example project and upload code to mcu with programmer tool : stlink v2 - jlink - power writer
+2- compile example project and upload code to mcu 
 
-3- supported programming tool : stlink v2 - Segger jlink - PWLINK2
+3- supported programmer tool : stlink v2 - jlink - power writer
+
+4- supported programming software : keil - iar - Segger jflash - PowerWriter
 
 Microcontroller purchase link :   
       [HK32F030MF4P6](https://lionelectronic.ir/products/2668-HK32F030MF4P6)  
