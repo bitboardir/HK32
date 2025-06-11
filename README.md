@@ -3,7 +3,7 @@
 2- compile example project and upload code to mcu with programmer tool : stlink v2 - jlink - power writer
 
 3- supported programming tool : stlink v2 - Segger jlink - PWLINK2
-
+[HK32F030MF4P6](https://lionelectronic.ir/products/2668-HK32F030MF4P6)
 Microcontroller purchase link : 
 
       [HK32F030MF4P6](https://lionelectronic.ir/products/2668-HK32F030MF4P6)
