@@ -4,3 +4,9 @@
 
 3- run HK Config First Time as administrator
 
+4- change language
+
+---
+<p align="center">
+  <img src="HK Config.png" alt="HK Config" width="700">
+</p>
