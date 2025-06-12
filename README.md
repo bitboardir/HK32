@@ -4,7 +4,7 @@
 
 3- supported programmer tool : stlink v2 - jlink - power writer
 
-4- supported programming software : keil - iar - Segger jflash - PowerWriter
+4- supported programming software : keil - iar - Segger jflash - PWLINK2
 
 Microcontroller purchase link :   
       [HK32F030MF4P6](https://lionelectronic.ir/products/2668-HK32F030MF4P6)  
