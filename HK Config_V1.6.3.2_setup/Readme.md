@@ -1,4 +1,5 @@
-1- install jlink  [download page](https://www.segger.com/downloads/jlink/)
+1- download and install jlink  [download page](https://www.segger.com/downloads/jlink/)
+  And HK Config.
 
 2- connect jlink debugger to PC and MCU
 
